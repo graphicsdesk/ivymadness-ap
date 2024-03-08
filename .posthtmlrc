@@ -7,12 +7,202 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Ivy Madness is coming to New York City. For the first time since the tournament’s founding in 2017, Levien Gymnasium will host the best of Ivy League basketball. Taking place from March 15-17, the top four Ivy League men’s and women’s teams will be competing for a bid into NCAA March Madness."
+          },
+          {
+            "type": "text",
+            "value": "Columbia women’s basketball will seek to utilize their home-court advantage to secure a coveted NCAA tournament slot after being knocked out in the semifinals in 2023. Men’s basketball fell short of qualifying for Ivy Madness, as its current 4-9 record places the team at sixth in the league standings. Nevertheless, the tournament will surely provide ample entertainment for those on campus during spring break."
+          },
+          {
+            "type": "text",
+            "value": "Here is a look at the teams that have clinched their spots ahead of the tournament."
+          },
+          {
+            "type": "text",
+            "value": "Women’s basketball:"
+          },
+          {
+            "type": "text",
+            "value": "PRINCETON (22-4, 12-1 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "As the winners of last year’s Ivy Madness tournament, Princeton has remained dominant in 2o24 with a conference record of 12-1. In 2023, it made its second consecutive appearance in March Madness, where the team found success against North Carolina State University before falling to the University of Utah in the round of 32."
+          },
+          {
+            "type": "text",
+            "value": "This year, Princeton shares in leading the league with Columbia, hoping to find repeated success for its fifth consecutive tournament title. The Tigers’ singular conference defeat of the season was in Levien Gymnasium earlier this year, where the team fell to Columbia 67-65, snapping a 15-game winning streak."
+          },
+          {
+            "type": "text",
+            "value": "Princeton hopes to find success through sophomore guard Madison St. Rose and senior guard Kaitlyn Chen. Chen, who has earned Most Outstanding Player honors in the past two Ivy tournaments, was Ivy League Player of the Year in 2023. Both Chen and St. Rose are in double-digit points per game, with Chen leading in assists. St. Rose is looking for continued success after earning Ivy League Rookie of the Year last season, as she is leading the team in three-point shots with a shooting average of 1.5 per game."
+          },
+          {
+            "type": "text",
+            "value": "COLUMBIA (21-5, 12-1 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "Columbia, tied with Princeton atop the league with a 12-1 conference record, has had another stellar season under the leadership of head coach Megan Griffith, CC ’07. In last year’s Ivy League tournament, the team fell to Harvard in the semifinals. Now, with a home record of 14-1 this season—the sole loss being an out-of-conference matchup against Duke—the Lions will seek to make it to the final on their home turf."
+          },
+          {
+            "type": "text",
+            "value": "Columbia basketball’s all-time leader in points scored, senior guard Abbey Hsu, will be one of the players to watch for this tournament. Off the back of a powerful season leading the Ivy League in three-point percentage and—with an average of 20.8 points per game—Hsu will seek to bring the Lions to a whole new level in the postseason."
+          },
+          {
+            "type": "text",
+            "value": "One scoring threat that may make the difference for the Lions comes in the form of junior guard Cecelia Collins. A transfer from Bucknell, Collins’ first season with the Light Blue has been one for the books. She hit 1,000 career points last month and leads the Ivy League in free-throw percentage: an impressive 86.5 percent."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "women.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "HARVARD (15-11, 9-4 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "In 2023, Harvard earned its spot in the Ivy Madness final for the first time after an upset win against Columbia. Having relied heavily on now-graduated guard McKenzie Forbes, Harvard has had to dig deep to find a response following her departure."
+          },
+          {
+            "type": "text",
+            "value": "The Crimson’s in-conference record so far this season is 9-4, solidifying the team’s second-place standing behind the tied Columbia and Princeton teams. Beyond the Ivy League, Harvard has gained experience in its non-conference season from matchups against top-ranked teams like the University of Maryland and Baylor University."
+          },
+          {
+            "type": "text",
+            "value": "Harvard’s success relies on junior guard Harmoni Turner, who ranks 32nd in the NCAA in average points per game, with 19.3 points. Alongside her, senior guard Lola Mullaney leads the team in three-point shots, averaging 2.2 per game. Sophomore forward Katie Krupa is also a player on the rise, sitting second on the team in three-point shots per game and third in total points per game."
+          },
+          {
+            "type": "text",
+            "value": "PENN (15-11, 7-6 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "Penn was the last team to secure its Ivy Madness berth, narrowly beating out Brown after a win against Harvard saw the Quakers go to 7-6 for in-conference play. In last year’s Ivy Madness, the Quakers were defeated in the semis by Princeton. This year, they are set to face either Princeton or Columbia, depending on the results of the final weekend."
+          },
+          {
+            "type": "text",
+            "value": "Penn’s top player, junior guard Stina Almqvist, ranks fifth in the league in scoring, notching 402 points this season. The Quakers’ overall performance this year has been a step down from the 2022-23 season, where they held a conference record of 9-5."
+          },
+          {
+            "type": "text",
+            "value": "However, Penn has found recent success. Almqvist earned her first Ivy League Player of the Week on March 4 alongside her freshman guard teammate Ese Ogbevire, who earned Rookie of the Week. Before heading to New York City, the team must face Princeton, who is currently tied for first in the league. Although an Ivy Madness win may be an uphill battle for Penn, the Quakers do have experience with tournament success after winning the inaugural competition in 2017."
+          },
+          {
+            "type": "text",
+            "value": "Men’s basketball:"
+          },
+          {
+            "type": "text",
+            "value": "PRINCETON (23-3, 11-2 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "Princeton, the reigning Ivy Madness champion, enters the tournament on the back of another successful conference season, currently tied for first place with Yale. After earning the Ivy League’s automatic bid into March Madness in 2023, the Tigers became the fourth ever No. 15 seed to make it into the Sweet 16 before losing out to Creighton."
+          },
+          {
+            "type": "text",
+            "value": "This season, the Tigers’ scoring has been led by sophomore guard Xaivian Lee. Ranked second in the Ivy League with an average of 17.9 points per game, Lee has earned considerable praise across the season. He was most recently named to the Lute Olson Award Mid-Season Watchlist, the only Ivy League player up for consideration, and will certainly be one to watch as Princeton aims to secure back-to-back NCAA tournament qualifications—a feat the Tigers haven’t accomplished since they made three straight appearances from 1996-1998."
+          },
+          {
+            "type": "text",
+            "value": "YALE (20-8, 11-2 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "Trading places with Princeton for the top-ranked spot throughout the previous tournaments, Yale last won the Ivy League Tournament in 2022. However, the team’s run in that year’s March Madness tournament fell apart against Purdue University in the first round."
+          },
+          {
+            "type": "text",
+            "value": "After earning its berth to the Ivy finals last year, the Bulldogs fell to Princeton. Currently, Yale and Princeton are tied for first place, both having conference records of 11-2 heading into the final week of conference play."
+          },
+          {
+            "type": "text",
+            "value": "This year, Yale is looking for redemption in the form of sophomore forward Danny Wolf, who is the seventh player to earn five Ivy League Player of the Week honors and who leads the league in rebounds. Wolf will be accompanied by senior forward Matt Knowling, who earned first team All-Ivy recognition last season and is en route to do the same, scoring in double digits in nine straight games this season."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "men.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "CORNELL (21-6, 10-3 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "Appearing in the Ivy Madness tournament three times since its founding, twice in the past two consecutive years, this will be the Big Red’s fourth appearance. Last year Cornell fell to Yale, 80-60, in the semifinals. This year, currently seeded third, Cornell has an opportunity for redemption."
+          },
+          {
+            "type": "text",
+            "value": "With a conference record of 10-3 heading into the final weekend of play, the Big Red are ranked second behind Yale and Princeton. Despite this, its three losses came from Brown, Princeton and Yale, all of the teams that Cornell may be facing in New York City."
+          },
+          {
+            "type": "text",
+            "value": "Cornell is looking for its first stint in the tournament finals. They will be relying on senior guard Chris Manon, who leads in points and assists, averaging 12.7 points and three assists per game. He also leads the Ancient Eight in steals, averaging 2.3 per game. Cornell has a consistent and deep roster, with six players averaging higher than 8 points per game."
+          },
+          {
+            "type": "text",
+            "value": "BROWN (11-17, 7-6 Ivy)"
+          },
+          {
+            "type": "text",
+            "value": "This season, Brown secured its first-ever Ivy Madness berth through a victory over Dartmouth that saw the Bears clinch fourth place in the league standings. In 2023, while the team tied with Cornell for fourth, its lesser conference record over No. 1 seed Yale saw Brown left out of the tournament."
+          },
+          {
+            "type": "text",
+            "value": "As the Bears aim to make a dominant entrance into postseason play, they will look to Ivy League men’s basketball’s top scorer this season, junior guard Kino Lilly Jr., to guide them. Sitting on 490 points this season with an average of 18.1 points per game, Lilly has been a major factor in Brown’s success and was named to the All-Ivy first team in 2023."
+          },
+          {
+            "type": "text",
+            "value": "With a losing record against the three teams above it in the standings, Brown’s only victory came from an away game at Cornell. Brown is certainly the underdog heading into the tournament."
+          },
+          {
+            "type": "text",
+            "value": "All eyes will be on New York City this month as each team chases glory and a chance to write itself into Ivy League basketball history."
+          },
+          {
+            "type": "text",
+            "value": "With one more weekend of conference play to go, tournament seeding is yet to be determined. The schedule sees the women’s semifinal games played on Friday, March 15, at 4:30 p.m. and 7:30 p. m., with the final set for 5 p.m. on Saturday, March 16. The men’s semifinals will be at 11 a.m. and 2 p.m. on Saturday, with the final being played at 12 p.m. on Sunday, March 17. All matches will take place in Levien Gymnasium and can be viewed on ESPN+."
+          },
+          {
+            "type": "text",
+            "value": "While the time of the game is still yet to be determined based on tournament seeding, student tickets can be reserved on a limited basis prior to the Columbia women’s basketball semifinal. Students will be able to attend the women’s championship game only if Columbia progresses, but can also reserve tickets in advance. Ticket reservations for both games require a $10 deposit. Tickets will be available on a first-come, first-serve basis, but students unable to secure a ticket will be able to join a waitlist. Seating will be distributed throughout Levien Gymnasium and  assigned seating will be electronically distributed on March 13."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Arielle Rieder can be contacted at </i><a href=\"mailto:arielle.rieder@columbiaspectator.com\"><i>arielle.rieder@columbiaspectator.com</i></a><i>. Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Jillian Prunty can be contacted at </i><a href=\"mailto:jillian.prunty@columbiaspectator.com\"><i>jillian.prunty@columbiaspectator.com</i></a><i>. Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Senior Reporter Ana Pekec can be contacted at </i><a href=\"mailto:ana.pekec@columbiaspectator.com\"><i>ana.pekec@columbiaspectator.com</i></a><i>. Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Welcome to New York: Ivy Madness comes to Columbia",
+        "date": "March 8, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/arielle-rieder/\">Arielle Rieder</a> and <a href=\"https://www.columbiaspectator.com/contributors/jillian-prunty/\">Jillian Prunty</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/ana-pekec/\">Ana Pekec</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/52VYDXI6GNCNXO6YUWM4ZOX7Q4.jpeg",
+        "cover_caption": "Anaïs Fotsing / Illustrations Trainee",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Xip_MZreMbKr6ZzVdkVOzwAXPzqFy2O-z5XDoOeGbYk/edit"
       }
     }
   }
